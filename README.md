@@ -35,3 +35,8 @@ The jungle trees in the "thick jungle" are quite tall. To make the transition to
 
 ## Wooded plateau
 The wooded plateau (sub-biome of the Badlands/Mesa) is usually reserved for high elevations. For the lower elevations, we recommend using the "rocks and bushes" layer.
+
+# Additions are welcomed.
+Pull requests are welcome if you feel like you have some schematics worth adding. (birch trees, cherry?) 
+
+If you don't know how to make a pull request contact @sijmen_v_b on the [worldpainter discord](https://discord.gg/NrGWtXnra8).
