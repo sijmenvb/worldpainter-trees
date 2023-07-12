@@ -17,6 +17,7 @@ By survival friendly we mean that the trees are:
    - Mostly log blocks.
    - Non-log blocks are close to the logs and hard to miss.
    - No more than 4 aesthetic blocks per tree (think fences etc.).
+ - Trees have roots, so they can spawn on slopes.
 
 ## ...easy import.world
 Use the "Import custom layer(s) from another world..." option in worldpainter and select the ...easy import.world file to quickly import all the provided (custom object) layers.
